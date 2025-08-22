@@ -48,7 +48,7 @@ The dataset contains restaurant details from Zomato, such as:
 
 Clone this repository:
 
-* git clone https://github.com/your-username/zomato-restaurant-analysis.git
+* git clone https://github.com/vigneshc192-cloud/Zomato-Restaurant-Data-Analysis/tree/main
 
 * Open the .pbix file in Power BI Desktop.
 * Explore the dashboard and interact with filters.

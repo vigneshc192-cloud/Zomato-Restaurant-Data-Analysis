@@ -16,9 +16,11 @@ The dataset contains restaurant details from Zomato, such as:
 * Country, City, Location
 * Cuisines Offered
 * Average Cost for Two
-* Currency
-* Has Table Booking / Online Delivery
+* Online Delivery
 * Aggregate Rating & Votes
+
+![dataset zomato](https://github.com/user-attachments/assets/84303fcf-ad18-4e0a-93a7-0db49fded18a)
+
 
 # 🛠️ Tools & Technologies
 
@@ -54,6 +56,8 @@ Clone this repository:
 # 📸 Dashboard Preview
 
 (Add screenshot of your Power BI dashboard here — helps viewers understand quickly)
+![zomato project dashboard](https://github.com/user-attachments/assets/c4400c8d-2492-4c1d-86f6-9c5dc638cf05)
+
 
 # 📌 Future Scope
 
@@ -61,7 +65,7 @@ Clone this repository:
 * Comparing data with other food delivery apps.
 * Advanced forecasting using time-series analysis.
 
-🙌 Acknowledgements
+# 🙌 Acknowledgements
 
 * Dataset source: [Zomato / Kaggle Dataset]
 * Tool: Microsoft Power BI
